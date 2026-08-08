@@ -33,6 +33,13 @@ LLMs process human language by:
 - **Context Recognition:** Mapping out how concepts, words, and grammar relate to one another.
     
 - **Statistical Generation:** Calculating the most mathematically probable words to send back as a response.
+  ## What is a Vector?
+
+At its simplest, a **vector** is a list of numbers that represents a point or a direction in a multi-dimensional space.
+
+- **In Math & Physics:** A vector represents both magnitude (length) and direction (e.g., traveling 50 mph North).
+    
+- **In Machine Learning & AI:** Vectors are used to represent complex data—like words, images, or audio—as numerical coordinates so computers can process them.
   
   ![Pasted image 20260808155530.png](/img/user/Pasted%20image%2020260808155530.png)
   
