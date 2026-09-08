@@ -5,7 +5,9 @@
 see:[[Obsidian\|Obsidian]]
 ###  
 GitHub is a web-based platform used by developers to store, manage, and track changes to their code. It uses **Git**, a version control system that records every modification made to a project, allowing multiple people to collaborate on the same codebase without overwriting each other's work.
- 
+
+
+
 **Core Concepts**
 
 - **Repository (Repo):** A digital folder that stores all the files, code, images, and history for a specific project.
