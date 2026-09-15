@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/what-is-prompting/","dg-note-properties":{}}
 ---
 
+see:
+
 **What Prompting Is**
 
 Prompting is the act of giving instructions, questions, or context to an AI model. It acts as the input that guides the AI to generate a specific, relevant response.
