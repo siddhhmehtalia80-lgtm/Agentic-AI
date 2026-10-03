@@ -54,5 +54,5 @@ Its defining feature is **bi-directional linking**, which allows you to link not
         
     - **Community Plugins:** Go to **Settings > Community plugins**, turn off _Restricted Mode_, and click **Browse** to install popular extensions like _Dataview_ (for querying data) or _Tasks_ (for to-do tracking).
       
-      see:[[What is AI\|What is AI]]![Screenshot 2026-08-21 111229.png](/img/user/Screenshot%202026-08-21%20111229.png)
+      see:[[AI\|AI]]![Screenshot 2026-08-21 111229.png](/img/user/Screenshot%202026-08-21%20111229.png)
       
