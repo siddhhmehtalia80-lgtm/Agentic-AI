@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-is-intelligence/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/intelligence/","dg-note-properties":{}}
 ---
 
 ## What is Intelligence Termed as in General?
