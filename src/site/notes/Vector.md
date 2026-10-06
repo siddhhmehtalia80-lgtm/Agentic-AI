@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/vector/","dg-note-properties":{}}
 ---
 
+see:[[LLMs\|LLMs]]
 Depending on the context—math, physics, or artificial intelligence—a **vector** has slightly different meanings, but the core concept is always about **representing magnitude, direction, or characteristics in a structured format**.
 
 ### 1. Vector in Physics and Mathematics

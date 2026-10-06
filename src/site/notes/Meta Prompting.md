@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/meta-prompting/","dg-note-properties":{}}
 ---
 
+see:[[AI\|AI]]
 **Meta-prompting** is an advanced prompt engineering technique where you use an AI model to write, refine, organize, or optimize prompts for another AI (or for itself). Instead of manually tweaking instructions through trial and error, you instruct the AI to act as a prompt architect.
 
 ## How Meta-Prompting Works

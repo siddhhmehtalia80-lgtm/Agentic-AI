@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ai-hallucinations/","dg-note-properties":{}}
 ---
 
+see:[[AI\|AI]]
 An **AI hallucination** occurs when an artificial intelligence—especially a Large Language Model (LLM)—generates false, incorrect, or completely fabricated information and presents it as if it were a factual truth.
 
 These hallucinations range from minor factual errors to entirely made-up quotes, citations, scientific studies, or historical events.

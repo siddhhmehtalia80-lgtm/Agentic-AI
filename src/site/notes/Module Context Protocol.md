@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/module-context-protocol/","dg-note-properties":{}}
 ---
 
+see:[[MCP\|MCP]]
 The **Model Context Protocol (MCP)** is an open standard and open-source framework created to solve a common problem in AI development: **how AI models securely connect to external tools, databases, and local applications.**
 
 Before MCP, every time developers wanted an AI model (like Claude, ChatGPT, or an IDE assistant) to interact with a specific tool—such as GitHub, Postgres databases, Google Drive, or local files—they had to write custom, one-off integrations (APIs or plugins) for each platform.

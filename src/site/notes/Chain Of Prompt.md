@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/chain-of-prompt/","dg-note-properties":{}}
 ---
 
+see:[[AI\|AI]]
 **Prompt chaining** (or chain-of-prompts) is a technique in AI engineering where a complex task is broken down into a series of smaller, sequential steps. Instead of asking an AI model to complete a massive or multi-layered task in a single prompt, the output of one prompt is fed as the input into the next prompt.
 
 ## How Prompt Chaining Works

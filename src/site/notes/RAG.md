@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/rag/","dg-note-properties":{}}
 ---
 
+see:[[Machine Learning\|Machine Learning]]
 **RAG** stands for **Retrieval-Augmented Generation**.
 
 It is an architecture and technique in artificial intelligence that enhances Large Language Models (LLMs) by connecting them to external, verified data sources—such as databases, internal company documents, or web search APIs—before generating a response.

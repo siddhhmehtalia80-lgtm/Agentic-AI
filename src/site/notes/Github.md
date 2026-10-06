@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/github/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-se
+see:[[AI\|AI]]
 
 ### What is MCP?
 

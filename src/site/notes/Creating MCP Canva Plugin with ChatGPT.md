@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/creating-mcp-canva-plugin-with-chat-gpt/","dg-note-properties":{}}
 ---
 
+see:[[MCP\|MCP]]
 Building a **Canva MCP Server / Plugin for ChatGPT** creates a bridge that lets ChatGPT interact directly with a user’s Canva account via the **Model Context Protocol (MCP)** standard.
 
 Instead of copying and pasting content manually, ChatGPT can inspect Canva templates, generate designs, autofill brand templates, add comments, or export completed graphics—all driven by natural language prompts.

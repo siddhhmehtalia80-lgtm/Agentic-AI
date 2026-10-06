@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/prompt-engineering/","dg-note-properties":{}}
 ---
 
+see:[[Meta Prompting\|Meta Prompting]]
 **Prompt engineering** is the practice of designing, refining, and structuring inputs (prompts) to guide Large Language Models (LLMs) and generative AI systems to produce accurate, context-aware, and high-quality outputs.
 
 Instead of relying on luck or trial and error, prompt engineering applies structured techniques to steer how an AI model interprets, reasons through, and formats its answers.

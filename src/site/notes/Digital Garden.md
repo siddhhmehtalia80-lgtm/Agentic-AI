@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/","dg-note-properties":{}}
 ---
 
+see:[[AI\|AI]]
 A **digital garden** is an online, interactive space where an individual cultivates ideas, notes, and knowledge over time. It is a hybrid between a personal blog, a private notebook, and a wiki.
 
 Unlike traditional blogs—which publish finished articles in chronological order—a digital garden prioritizes **topography over timelines** and **process over polish**. Notes are interlinked based on how concepts relate to one another, and they are continuously updated as the author learns more.

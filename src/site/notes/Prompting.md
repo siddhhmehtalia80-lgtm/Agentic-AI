@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/prompting/","dg-note-properties":{}}
 ---
 
-see:
+see:[[Meta Prompting\|Meta Prompting]]
 
 **What Prompting Is**
 

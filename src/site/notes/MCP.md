@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mcp/","dg-note-properties":{}}
 ---
 
-
+see:[[AI\|AI]]
 
 ## MCP stands for **Model Context Protocol**.
 ### How Does MCP Work in Its Place?
